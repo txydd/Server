@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Fri Apr 10 16:42:16 CST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0171-6340-ff1b-00000081eaf8 
+on database directory C:\Users\txy\Desktop\服务端\server\EmbeddedDB with class loader sun.misc.Launcher$AppClassLoader@dad5dc 
+Loaded from file:/C:/Users/txy/Desktop/%e6%9c%8d%e5%8a%a1%e7%ab%af/server/src/main/resources/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_65-b17
+user.dir=C:\Users\txy\Desktop\服务端\server
+os.name=Windows 10
+os.arch=x86
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
